@@ -70,7 +70,7 @@ button:hover{
     transform: scale(0.98);
 }
 .left{
-    background: url(/img/iphone12.png) no-repeat;
+    background: url(img/iphone12.png) no-repeat;
     background-size: cover;
     background-position: center;
     height: 100%;
